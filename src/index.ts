@@ -8,7 +8,7 @@ const promo: PromotionCode = {
   id: "promo_abc",
   code: "SAVE20",
   active: true,
-  coupon: { id: "promo_xyz", name: "20% off", percent_off: 20 },
+  promotion: { id: "promo_xyz", name: "20% off", percent_off: 20 },
   created: 1710000000,
 };
 
